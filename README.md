@@ -8,7 +8,6 @@ I learned topics such as decorators, interfaces, and generics and incorporated t
 
 # [`The Client`](webclient/src/index.js):
 ```javascript
-cd workout\webclient
 npm install
 npm start
 ```
